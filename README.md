@@ -14,7 +14,9 @@ This Extension is developed by th using Fast.<br>A circular motion view componen
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-03-25 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.8.0`
-<br><br>
+<br>
+Download [Aix](https://github.com/TechHamara/Circular-Motion-View/blob/main/io.th.circularmotionview.circularmotionview.aix)
+<br>
 
 <br><br>
 ## Bloks

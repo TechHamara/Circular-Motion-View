@@ -9,11 +9,12 @@ This Extension is developed by th using Fast.<br>A circular motion view componen
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.circularmotionview.circularmotionview
-💾 **Size:** 22.30 KB
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-03-25 timezone="Asia/Calcutta"]
+📦 **Package:** io.th.circularmotionview.circularmotionview<br>
+💾 **Size:** 22.30 KB<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-03-25 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.8.0`
+<br><br>
 
 <br><br>
 ## Bloks

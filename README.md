@@ -10,12 +10,13 @@ This Extension is developed by th using Fast.<br>A circular motion view componen
 ## 📝 Specifications
 * **
 📦 **Package:** io.th.circularmotionview.circularmotionview<br>
-💾 **Size:** 22.30 KB<br>
+💾 **Size:** 25.78 KB<br>
+⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
-📅 **Updated On:** [date=2025-03-25 timezone="Asia/Calcutta"]<br>
+📅 **Updated On:** [date=2025-04-06 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.8.0`
 <br>
-Download [Aix](https://github.com/TechHamara/Circular-Motion-View/blob/main/io.th.circularmotionview.circularmotionview.aix)
+
 <br>
 
 <br><br>
@@ -65,13 +66,14 @@ Download [Aix](https://github.com/TechHamara/Circular-Motion-View/blob/main/io.t
 ![GetBoxText_Set_Property](https://github.com/user-attachments/assets/b1ef3204-46e7-4e7d-a792-2d29f81d592a)
 ![BoxSize_Set_Property](https://github.com/user-attachments/assets/8c6fdd78-a9f4-427c-b304-5993a1912dc0)
 ![BoxSize_Get_Property](https://github.com/user-attachments/assets/53ecbad2-c045-4821-962c-38ee987e146b)
-![BoxShape_Set_Property](https://github.com/user-attachments/assets/96adb0c6-5114-4e99-8bee-c1769230babf)
+![BoxShape_Set_Property](https://github.com/user-attachments/assets/ff216b1d-d52b-469c-b392-e474859259bb)
+
 
 <br>
 
 ## Demo Bloks
 
-![blocks](https://github.com/user-attachments/assets/086fde26-d3cf-4f7c-af76-bfba538d787c)
+![blocks](https://github.com/user-attachments/assets/97b3f6a1-feda-44ba-a9ef-061b57eaea27)
 
 <br>
 
@@ -197,6 +199,9 @@ Get text from a specific box
 Set the shape of all boxes. Available shapes: RECTANGLE, ELLIPSE, TRIANGLE_UP, TRIANGLE_DOWN, TRIANGLE_RIGHT, TRIANGLE_LEFT, TRAPEZIUM, PARALLELOGRAM, CAPSULE, LEAF, RHOMBUS, HEART_1, HEART_2, DROP, STAR_1, STAR_2, DIAMOND, PENTAGON, HEXAGON
 
 * Input type: `text`
+* Helper class: `Shape`
+* Helper enums: `RECTANGLE`, `ELLIPSE`, `TRIANGLE_UP`, `TRIANGLE_DOWN`, `TRIANGLE_RIGHT`, `TRIANGLE_LEFT`, `TRAPEZIUM`, `PARALLELOGRAM`, `CAPSULE`, `LEAF`, `TRIANGLE_TOP_LEFT`, `TRIANGLE_TOP_RIGHT`, `RHOMBUS`, `HEART_1`, `HEART_2`, `DROP`, `STAR_1`, `STAR_2`, `DIAMOND`, `PENTAGON`, `HEXAGON`
+
 
 ### 💚 AutoRotation
 Enable or disable automatic rotation. When disabled, the view can only be rotated manually.
@@ -258,3 +263,7 @@ Show or hide the entire circular motion view including all boxes.
 
 ## Thanks
   TechHamara
+
+## Pay me On PayPal
+![paypal](https://github.com/user-attachments/assets/f0a41fb7-5a73-4421-b0fa-cea9a0dcdc8f)
+
